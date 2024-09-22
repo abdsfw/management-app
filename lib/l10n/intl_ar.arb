@@ -1,0 +1,26 @@
+{
+    "management_app": "تطبيق الإدارة",
+    "change_language": "تغيير اللغة",
+    "search": "بحث",
+    "no_product_yet": "لا توجد منتجات بعد",
+    "no_category_yet": "لا يوجد فئات بعد",
+
+    "name_of_product": "اسم المنتج",
+    "name_of_category": "اسم الفئة",
+    "price_of_buy": "سعر الشراء",
+    "price_of_sell": "سعر البيع",
+    "quantity": "الكمية",
+    "old_quantity": "الكمية القديمة",
+    "enter": "أدخل",
+    "cancel": "إلغاء",
+    "add_product": "إضافة عنصر",
+    "add_category": "إضافة فئة",
+    "item_of_product": "عنصر المنتج",
+    "add": "إضافة",
+    "minus": "ناقص",
+    "save": "حفظ",
+    "delete_item_question": "هل أنت متأكد من حذف هذا العنصر؟",
+    "delete": "حذف",
+    "ok": "موافق",
+    "all_item": "كل العناصر"
+}
